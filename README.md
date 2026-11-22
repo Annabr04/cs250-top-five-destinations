@@ -30,3 +30,8 @@ Images from Unsplash (free under the Unsplash License):
 - Images are scaled for the list view.
 - Alternating row colors and selection highlighting added as customizations.
 - Designed to meet the acceptance criteria of the user story.
+
+## Repository contents
+
+This repository currently contains `src/TopFiveDestinationList.java` and this README. The destination image files described above are not included here, so the Eclipse and runnable-JAR steps will not display images until those files are added to a `resources` folder on the classpath.
+
